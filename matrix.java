@@ -24,7 +24,7 @@ public class matrix {
 		System.out.print("Enter number of rows and columns of second matrix: ");
 		p=s.nextInt();
 		q=s.nextInt();
-		if(n!=q)
+		if(m!=q)
 		{
 			System.out.println("Multiplication cannot be performed");
 		}
